@@ -1,4 +1,4 @@
-# 🎵 py-yt-search 💠
+# py-yt-search 💠
 
 An **unofficial advanced version** of the original [`py_yt_search`](https://pypi.org/project/py-yt-search/) library by **Prakhar Shukla**.  
 This version introduces **improved query handling, better URL-based lookups**, and refined search results.
@@ -9,15 +9,15 @@ This version introduces **improved query handling, better URL-based lookups**, a
 
 ## 🌐 Repository
 
-👉 **GitHub:** [billaspace/py-yt-search](https://github.com/billaspace/py-yt-search)
+👉 **GitHub:** [billaspace/py_yt](https://github.com/billaspace/py_yt)
 
 You Can include this Repository In Your python Project's Requirements.txt simply by:
-```git+https://github.com/BillaSpace/py-yt-search.git```
+```git+https://github.com/BillaSpace/py_yt.git```
 Or
 You can directly clone this repo and install locally:
 ```bash
-git clone https://github.com/billaspace/py-yt-search.git
-cd py-yt-search
+git clone https://github.com/billaspace/py_yt.git
+cd py_yt
 pip install .
 
 
@@ -32,7 +32,7 @@ pip install py-yt-search
 
 From GitHub (recommended unofficial version )
 
-pip install git+https://github.com/billaspace/py-yt-search.git
+pip install git+https://github.com/billaspace/py_yt.git
 
 
 ---
@@ -71,9 +71,9 @@ print(video["title"], video["views"])
 
 📦 Project Info
 
-Original Author: Prakhar Shukla
+Original Author: Unknown
 
-Unofficial Maintainer: billaspace
+Unofficial Maintainer: Prakhar Shukla
 
 License: MIT
 
